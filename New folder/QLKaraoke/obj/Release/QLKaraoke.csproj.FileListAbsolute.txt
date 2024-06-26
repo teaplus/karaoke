@@ -1,0 +1,92 @@
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\bin\Release\QLKaraoke.exe.config
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\bin\Release\QLKaraoke.exe
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\bin\Release\QLKaraoke.pdb
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.csprojAssemblyReference.cache
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.ChangeConnString.resources
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.Form1.resources
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.FormAdmin.resources
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.formMain.resources
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.FormOrderFood.resources
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.OrderRoom.resources
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.Properties.Resources.resources
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.csproj.GenerateResource.cache
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.exe
+C:\Users\Thien\Desktop\Project_QLKaraoke\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.pdb
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\SqlServerTypes\x64\msvcr100.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\SqlServerTypes\x86\msvcr100.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\QLKaraoke.exe.config
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\QLKaraoke.exe
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\QLKaraoke.pdb
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\FlashControlV71.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.ReportViewer.Design.DLL
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\EnvDTE.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\EnvDTE80.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\stdole.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\VSLangProj.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\VSLangProj80.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.MSXML.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\VSLangProj2.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.csprojAssemblyReference.cache
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.exe.config
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.ChangeConnString.resources
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.Form1.resources
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.FormAdmin.resources
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.formMain.resources
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.FormOrderFood.resources
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.FormReportBill.resources
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.FormReportPayment.resources
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.OrderRoom.resources
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.Properties.Resources.resources
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.csproj.GenerateResource.cache
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.csproj.CopyComplete
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.exe
+C:\Users\Thien\Desktop\project_cnpm cua Kiet\QLKaraoke\QLKaraoke\obj\Release\QLKaraoke.pdb
